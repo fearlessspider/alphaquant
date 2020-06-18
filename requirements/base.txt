@@ -1,0 +1,8 @@
+django==3.0.7
+v20
+requests
+oandapy
+djangorestframework
+django-filter
+Pillow
+psycopg2
