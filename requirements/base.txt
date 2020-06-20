@@ -6,3 +6,4 @@ djangorestframework
 django-filter
 Pillow
 psycopg2
+django_cron
