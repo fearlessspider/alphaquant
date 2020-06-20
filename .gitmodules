@@ -1,0 +1,3 @@
+[submodule "quant/piranha"]
+	path = quant/piranha
+	url = git@github.com:fearlessspider/piranha-algo.git
